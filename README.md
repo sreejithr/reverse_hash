@@ -1,9 +1,13 @@
 # reverse_hash
 Given the hash value, find the string used to generate the hash (programming puzzle solution)
 
-## Running
+## Install & Run
 
-`python core.py <hash>`
+```
+git clone https://github.com/sreejithr/reverse_hash
+cd reverse_hash
+python core.py <hash>
+```
 
 ## Tests
 
